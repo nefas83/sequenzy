@@ -3,6 +3,8 @@
 Sequenzy is a small python program to mutate sequences of amino acids at predefined positions and create all possible combinations. The individual results are exported and saved as a FASTA file. 
 In addition, a CVS and Excel file is created with the legend containing the change per export file. 
 
+![](pic2.png)
+
 ## Requirements
 
 
