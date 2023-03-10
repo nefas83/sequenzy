@@ -7,7 +7,7 @@ In addition, a CVS and Excel file is created with the legend containing the chan
 
 
 - python 3.7 or newer
-  - Downlaod Python 3.11.2: [Link](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
+  - Downlaod Python 3.11.2 for Windows: [Link](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
   - Download Side: [Link](https://www.python.org/downloads/)
 
 - Libs
