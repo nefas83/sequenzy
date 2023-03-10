@@ -231,7 +231,7 @@ class App(customtkinter.CTk):
             legende[i] = changes
             with open(resource_path('output/' + filename), "w") as file:
                 print('Write new File: ' + filename)
-                file.write('>' + self.fileName + '\n')
+                file.write('>' + self.fileName + ' ' + ' '.join(changes) + '\n')
                 file.write(self.insertLineBreak(new_string, 70))
                 if self.progressbar['value'] < self.progressbar['maximum']:
                     self.progressbar['value'] += 1          
